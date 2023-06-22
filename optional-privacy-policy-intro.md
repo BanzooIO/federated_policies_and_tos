@@ -24,7 +24,7 @@ The second thing to be hyper aware of is this technology is in very early, and v
 
 There are responsible alternatives to completely open federated systems. If you are in any way uncomfortable with what I have explained about the distribution in openly federated I encourage you to use those platforms instead. This however comes with its own drawbacks. You are putting your entire faith in a potentially smaller operator and developer network. If you are unhappy about the direction that platform is going, or the platform disappears, so does your community and your voice in that community. With a federated platform you are free to leave a local and join another while retaining access to your community, and with the same user experience you had grown accustomed to and mastered.
 
-After reviewing the privacy policy below you decide to join our community, I warmly welcome you with the confidence you are informed on how to be responsible for your privacy, and you have my assurance I am here to do my part in maintaining the private gateway to your travels.
+After reviewing the privacy policy below you decide to join our community, I warmly welcome you with the confidence you are informed on how to be responsible for your privacy, and you have my assurance I am here to do my part in maintaining the private gateway to your travels in this space.
 
 {{ add privacy policy here. Basic framework policy frameworks can be found @ https://github.com/BanzooIO/federated_policies_and_tos }}
 
