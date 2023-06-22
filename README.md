@@ -1,2 +1,10 @@
-# federated_policies_and_tos
+ # federated_policies_and_tos
 Development of various policies for federated social space. NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
+
+Everything here is provided with zero guarantees on validity, accuracy, legal protection. None of it has been reviewed by a lawyer.
+
+NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
+NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
+NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
+NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
+NO GUARANTEES ON THE LEGAL VALIDITIY OF THESE DOCUMENTS
