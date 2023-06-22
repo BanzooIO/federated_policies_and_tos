@@ -26,6 +26,6 @@ There are responsible alternatives to completely open federated systems. If you 
 
 After reviewing the privacy policy below you decide to join our community, I warmly welcome you with the confidence you are informed on how to be responsible for your privacy, and you have my assurance I am here to do my part in maintaining the private gateway to your travels.
 
-{{add privacy policy here. Basic framework policy frameworks can be found @ https://github.com/BanzooIO/federated_policies_and_tos}}
+{{ add privacy policy here. Basic framework policy frameworks can be found @ https://github.com/BanzooIO/federated_policies_and_tos }}
 
 {{ Licensed in the public domain. If attribution is desired, please link to the BanzooIO federation policy project }}
