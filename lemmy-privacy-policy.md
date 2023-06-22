@@ -49,7 +49,7 @@ We will make a good faith effort to:
 * Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
 * Retain the IP addresses associated with registered users no more than 12 months.
 
-You may irreversibly delete your account at any time.** However, this does not guarantee all instances will be notified or respect the deletion of your public data.**
+You may irreversibly delete your account at any time. **However, this does not guarantee all instances will be notified or respect the deletion of your public data.**
 
 {{provide relevant backup retention policies}}
 
@@ -81,5 +81,5 @@ Law requirements can be different if this server is in another jurisdiction.
 
 ---
 
-This document is CC-BY-SA. Originally adapted from the [Mastodon privacy policy](https://mastodon.social/privacy-policy).
-
+This document is CC-BY-SA. Originally adapted from the [Mastodon privacy policy](https://mastodon.social/privacy-policy), which was originally adapted from the [Discourse privacy policy](https://github.com/discourse/discourse).
+ 
