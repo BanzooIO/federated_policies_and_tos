@@ -46,8 +46,8 @@ We will make a good faith effort to:
 
 
 
-* Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
-* Retain the IP addresses associated with registered users no more than 12 months.
+* Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than {{maximum number of days retained}} days.
+* Retain the IP addresses associated with registered users no more than {{maximum number of months retained}} months.
 
 You may irreversibly delete your account at any time. **However, this does not guarantee all instances will be notified or respect the deletion of your public data.**
 
