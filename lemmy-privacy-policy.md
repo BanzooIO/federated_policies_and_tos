@@ -17,7 +17,7 @@ By joining this service you are engaging in, and contributing to, the very excit
 **In essence, your IP address and email remain private to this local instance, however due to the nature of federated services all engagement should be considered public and you are responsible for taking appropriate precautions in how you engage. Do not share any sensitive or information you do not want public over Lemmy.** 
   
 * **Direct messages**: All messages are stored and processed on the instance. In some cases it means they are delivered to different instances and copies are stored there. We make a good faith effort to limit the access to these direct messages to only authorized persons, but other instances may fail to do so. Therefore it's important to review the instances of users you are engaging with. **Please keep in mind that the operators of the instance and any receiving instance may view such messages**, and that recipients may screenshot, copy or otherwise re-share them. **Do not share any sensitive information over Lemmy.**
-* **IPs and other metadata**: When you log in, we record the IP address you log in from, as well as the name of your browser application. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
+* **IPs and other metadata**: When you log in, we record the IP address you log in from, as well as the name of your browser application. The latest IP address used is stored for up to {{maximum_retention_user_ip}}. We also may retain server logs which include the IP address of every request to our server.
 
 
 # **What do we use your information for?**
@@ -46,8 +46,8 @@ We will make a good faith effort to:
 
 
 
-* Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than {{maximum number of days retained}} days.
-* Retain the IP addresses associated with registered users no more than {{maximum number of months retained}} months.
+* Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than {{maximum_retention_request_logs}}.
+* Retain the IP addresses associated with registered users no more than {{maximum_retention_user_ip}}.
 
 You may irreversibly delete your account at any time. **However, this does not guarantee all instances will be notified or respect the deletion of your public data.**
 
