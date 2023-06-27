@@ -8,7 +8,7 @@ A monolith platform (what you might be used to: Meta;reddit;TikTok) provides a m
 
 It is also important to recognize that this is early, and experimental software. It will not be guarenteed to be free from flaws. 
 
-It is my responsibility to make my best efforts to ensure that sensitive information that could identify or otherwise track you does not leave this local instance. This includes things such as your email and IP address. This information is not federated and my controls on maintaining this component of privacy is what the policy outlines. However all *your* engagement (profile;comments;direct messages;votes;subscriptions;follows) is often completely public and you must act according to your comfort level in managing what you would prefer to remain private.
+It is my responsibility to make my best efforts to ensure that sensitive information that could identify or otherwise track you does not leave this local instance. This includes things such as your email and IP address. This information is not federated and my controls on maintaining this component of privacy is what the policy outlines. However all *your* engagement (profile;comments;direct messages;votes;subscriptions;follows) is often completely public and you must act according to your comfort level in managing what you would prefer to keep private.
 
 {{ For further information please refer to:
 
