@@ -2,7 +2,7 @@ Hello privacy conscious *fellow* human (unless you are a bot, in which case, hel
 
 I see we share a common interest in privacy, and that is very good! I want you to make an informed decision on how you manage your privacy, because that is the distinction here: your privacy is your responsibility and I want you to be hyper aware of this. I want you to be informed so that you engage with this platform in a way that ensures you are managing your privacy responsibly. Because it is YOUR responsibility no matter where you go.
 
-You are agreeing to be a part of a very exciting and emerging technology, but if you are unfamiliar it is imperitive that you educate yourself on open federated models and what that means for your privacy, because the privacy goal here may be different than what you are accustomed to. 
+You are agreeing to be a part of a very exciting and emerging technology, but if you are unfamiliar, it is imperitive that you educate yourself on open federated models and what that means for your privacy, because the privacy goal here may be different than what you are accustomed to. 
 
 A monolith platform (what you might be used to: Meta;reddit;TikTok) provides a measure of control over how public your engagement is while leaving you open to being tracked and profiled; open federated protects you from being tracked with a cost of having less control over how public your engagement is (and will potentially remain). **This distinction is very important to fully understand before engaging on this platform.**
 
