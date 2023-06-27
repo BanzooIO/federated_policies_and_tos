@@ -15,3 +15,7 @@ It is my responsibility to make my best efforts to ensure that sensitive informa
 provide links to more indepth 
 
 eg. https://github.com/BanzooIO/federated_policies_and_tos/blob/main/optional-privacy-policy-intro.md }}
+
+{{ add privacy policy here. Basic policy frameworks can be found @ https://github.com/BanzooIO/federated_policies_and_tos }}
+
+{{ Licensed in the public domain. If attribution is desired, please link to the BanzooIO federation policy project }}
