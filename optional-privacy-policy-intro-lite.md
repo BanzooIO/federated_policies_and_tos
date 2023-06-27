@@ -12,7 +12,7 @@ It is my responsibility to make my best efforts to ensure that sensitive informa
 
 {{ For further information please refer to:
 
-provide links to more indepth 
+provide links to more indepth resources on federation privacy
 
 eg. https://github.com/BanzooIO/federated_policies_and_tos/blob/main/optional-privacy-policy-intro.md }}
 
