@@ -6,7 +6,7 @@ You are agreeing to be a part of a very exciting and emerging technology. Howeve
 
 A monolith platform (what you might be used to: Meta;reddit;TikTok) provides a measure of control over how public your engagement is while leaving you open to being tracked and profiled; open federated protects you from being tracked with a cost of having less control over how public your engagement is (and will potentially remain). **This distinction is very important to fully understand before engaging on this platform.**
 
-It is also important to recognize that this is early, and experimental software. It will not be guarenteed to be free from flaws. 
+It is also important to recognize that this is early, and experimental software. It will not be guaranteed to be free from flaws. 
 
 It is my responsibility to make my best efforts to ensure that sensitive information that could identify or otherwise track you does not leave this local instance. This includes things such as your email and IP address. This information is not federated and my controls on maintaining this component of privacy is what the policy outlines. However all *your* engagement (profile;comments;direct messages;votes;subscriptions;follows) is often completely public and you must act according to your comfort level in managing what you would prefer to keep private.
 
